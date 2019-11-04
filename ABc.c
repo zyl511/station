@@ -8,3 +8,10 @@ int test()
 	hello();
 	cout << "abc" << endl;
 }
+
+void main(int argv, char * argc)
+{
+
+	return;
+}
+
