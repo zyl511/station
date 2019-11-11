@@ -1,5 +1,4 @@
 
 	println();
-	hello();	hello();	hello();
+	hello();
 	
-	merge to master
